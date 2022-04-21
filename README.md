@@ -2,7 +2,7 @@
 
 *Akshat Khandelwal*
 
-- 🔭 I’m currently working on REACTJS and User Interface Design
+- 🔭 I’m currently working on ReactJS and User Interface Design
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Web related projects and technologies based on ReactJS and UI-UX
 - 🤔 I’m looking for help with Blockchain Development
