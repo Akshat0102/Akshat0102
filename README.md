@@ -2,10 +2,10 @@
 
 *Akshat Khandelwal*
 
-- 🔭 I’m currently working on Blockchain Development, Frontend Development and UI-UX Design.
-- 🌱 I’m currently learning ReactJS and Ethereum + Solidity Blockchain
-- 👯 I’m looking to collaborate on Web related projects and technologies based on ReactJS and UI-UX
-- 🤔 I’m looking for help with Blockchain Development
+- 🔭 I’m currently working on Full Stack Development and UI-UX Design.
+- 🌱 I’m currently learning RAG, Flask, and Machine Learning Basics.
+- 👯 I’m looking to collaborate on Web related projects and technologies based on ReactJS, NextJS, AngularJS and UI-UX.
+- 🤔 I’m looking for help with ML Based Development.
 - 💬 Ask me about Web related technologies, DSA, CP, Blockchain
 - 📫 How to reach me: Mail me at cruise.akshat@gmail.com
 
